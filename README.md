@@ -1,5 +1,5 @@
 # Field-Pulse-API
-This is a reverse engineered api for the service cloud application field pulse for the use of interoperability, and usability for applications to integrate with their application resources.
+This is an api for the service cloud application field pulse for the use of interoperability, and usability for applications to integrate with their application resources.
 
 To use the API, login with your email and passsword like normal into the browser, then take your browser cookies token id and user_id, and insert those values into the fieldpulse.py script.
 
